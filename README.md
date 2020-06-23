@@ -33,7 +33,7 @@
 
   ## Installation
 
-  To install this application, visit the [deployed site](heroku.com) and click the encircled '+' at the end of the address bar to download the PWA. 
+  To install this application, visit the [deployed site](https://shielded-hamlet-24008.herokuapp.com/) and click the encircled '+' at the end of the address bar to download the PWA. 
   
    <img src="./readme-images/pwa.png" alt="Click encircled plus sign to download PWA app"/>
   
@@ -44,7 +44,7 @@
   This app is ideal for users that need a fast and easy way to track their money, at anytime and anywhere without an internet connection. Whenever the app is back online, all stored expenses and deposits are backed-up on the backend database. 
 
   To use this app: 
-  1. Visit the [deployed site](heroku.com) or click on the downloaded PWA shortcut.
+  1. Visit the [deployed site](https://shielded-hamlet-24008.herokuapp.com/) or click on the downloaded PWA shortcut.
   2. Below the 'total' display, enter the name and amount of your transactions, and click 'Add Funds' or 'Subtract Funds' based on the transaction type.
   3. The transaction will appear in a list directly below, and affect the 'Total Over Time' chart at the bottom of the page.
   4. Any transactions logged while internet connection is offline will still appear in the list and be added to the chart.
